@@ -57,6 +57,3 @@ holidays are not modelled in future dates; a single hold-out window is used for 
 ## Future work
 India VIX / FII-DII / sentiment as exogenous inputs, LSTM and Prophet, rolling-origin validation,
 alerts by email or Telegram.
-
-## Team
-Add group member names and contributions here.
